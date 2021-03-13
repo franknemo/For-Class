@@ -19,21 +19,3 @@ XJohn Smith, 1230 Lane Street, 678-9080
 XMary Smith, 1230 Lane Street, 678-9080
 ZSandy Smith, 1230 Lane Street, 678-9080
 XMike Moore, 4567 Sporty Street, 678-5678
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
