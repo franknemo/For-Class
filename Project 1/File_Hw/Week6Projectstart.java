@@ -57,6 +57,7 @@ public class Week6Projectstart {
                 GoodCodeStream.newLine();
              }
         GoodCodeStream.close();
+        System.out.println("*********-----------Look for the new files-------------********");
     }
 
     private static void getData(String badFile) throws IOException{
@@ -102,6 +103,7 @@ public class Week6Projectstart {
             newBufferedWriter.newLine();
         }
         newBufferedWriter.close();
+        
     }
     
 }
